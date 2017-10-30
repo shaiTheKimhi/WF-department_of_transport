@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\wfwork\דוח נהגים\obj\Debug\דוח_נהגים.Form1.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\wfwork\דוח נהגים\obj\Debug\דוח_נהגים.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2017\Projects\wfwork\דוח נהגים\obj\Debug\דוח נהגים.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\wfwork\דוח נהגים\bin\Debug\דוח נהגים.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\wfwork\דוח נהגים\bin\Debug\דוח נהגים.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\wfwork\דוח נהגים\bin\Debug\דוח נהגים.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\wfwork\דוח נהגים\obj\Debug\דוח נהגים.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\wfwork\דוח נהגים\obj\Debug\דוח נהגים.pdb
+C:\Users\User\documents\visual studio 2017\Projects\wfwork\דוח נהגים\obj\Debug\דוח נהגים.csprojResolveAssemblyReference.cache
